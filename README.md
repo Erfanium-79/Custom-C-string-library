@@ -1,0 +1,5 @@
+A week ago, I started to learn the C programming language. I was looking for some good practices and projects since I was already familiar with C++. I asked ChatGPT to suggest some good projects with emphasis on memory management, and ChatGPT suggested several projects with different levels, as you can see here:[suggested C proojects](https://chatgpt.com/share/68b39ee5-7280-800f-9f07-d99a4f5d1902))
+I try very hard to use ChatGPT as little as possible for code generation because the whole purpose of these projects is education and learning. But I will continue to use ChatGPT as a mentor. I will provide all my chats with GPT regarding this project and later on for all these project series. 
+[start up questions about how to implement a custom string library](https://chatgpt.com/share/68b63826-9cc8-8010-87d2-2b7f619ca22b)
+[Here I asked him about all the utilities in the standard string.h provides](https://chatgpt.com/share/68b638d3-0f70-8010-8dcb-a9d9d7d3e25f)
+[and here I asked about MD link inclusion](https://chatgpt.com/share/68b63903-02e8-8010-9a69-8dd049097133)
